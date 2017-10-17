@@ -1,0 +1,46 @@
+
+.row .col-lg-8{
+	position: relative;
+	
+}
+.col-lg-8 .col-lg-8-1{
+	text-align: left;
+	width:100%;
+	padding:0 10px;
+	position: relative;
+	min-height: 60px;
+	top:-2000px;
+	z-index: 1;
+}
+.col-lg-8-1 div{
+	width:100%;
+	border:1px solid #e3dfdf;
+	border-radius: 10px;
+	min-height: 75px;
+	padding:0 10px;
+	margin-bottom: 20px;
+	position: relative;
+}
+.col-lg-8-1 p{
+	margin-bottom: 5px;
+	position: absolute;
+	right:10px;
+	bottom:0px;
+	height:20px;
+}
+.col-lg-8-1 p span{
+	margin-left: 5px;
+	color:#36c0b1;
+}
+.col-lg-8-1 h4{
+	color:#10200a;
+	font-weight: 100;
+}
+.col-lg-6{
+	z-index: 2;
+}
+.col-lg-8-1 b{
+	font-size: 20px;
+	color:#D2691E;
+	margin-left: 10px;
+}
